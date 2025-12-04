@@ -1,0 +1,5 @@
+{
+  "name": "Loan Control",
+  "description": "An application to manage and track bi-weekly loan payments. Users can enter a loan amount and the total number of payments to generate a detailed payment schedule.",
+  "requestFramePermissions": []
+}
